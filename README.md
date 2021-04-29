@@ -1,5 +1,5 @@
 ### **👋 Hi, I’m @MilloRallao but also known as David!**
-I'm a junior web and multiplatform developer who enjoys programming and loves videogames, bot playing or creating them :space_invader:
+I'm a junior web and multiplatform developer who enjoys programming and loves videogames, both playing or creating them :space_invader:
 - :nerd_face: I’m good at PHP, Java, Javascript and HTML/CSS.
 - 🌱 I’m currently learning Vue.js and C# with Unity.
 -  :bangbang: I'm looking for a job.
